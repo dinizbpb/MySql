@@ -1,0 +1,6 @@
+tb_personagem 
+
+id bigint primary key auto imcrement,
+id_classe 
+categoria varchar(300)
+no
